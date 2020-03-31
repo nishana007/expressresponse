@@ -1,0 +1,21 @@
+{
+    "red": {
+        "fruit": "apple",
+        "emotion": "romance",
+        "vegetable": "beetroot",
+        "id": 1
+    },
+
+    "blue": {
+        "fruit": "blue berry",
+        "emotion": "joy",
+        "vegetable": "brinjal",
+        "id": 2
+    },
+    "green": {
+        "fruit": "pear",
+        "emotion": "peace",
+        "vegetable": "spinach",
+        "id": 3
+    }
+}

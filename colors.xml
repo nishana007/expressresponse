@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flowerstore>
+    <flower>
+         <label>tulip</label>
+         <color>pink</color>
+        <id>1</id>
+    </flower>
+     <flower>
+         <label>rose</label>
+         <color>yellow</color>
+        <id>2</id>
+    </flower>
+     <flower>
+         <label>blossom</label>
+         <color>white</color>
+        <id>3</id>
+    </flower>
+   
+</flowerstore>
+
